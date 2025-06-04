@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Strait&display=swap');
+.painel{
+    /*borda*/
+    border: 3px solid rgb(46, 12, 81);
+    /*alinha texto no centro*/
+    text-align: center;
+    /*largura da div*/
+    width: 400px;
+    /*centralizar toda div*/
+    margin:auto;
+    /*altura*/
+    height: 400px;
+    /*borda arredondada*/
+    border-radius: 33px;
+    /*fundo*/
+    background-color: rgba(39, 2, 72, 0.49);
+    /*cor da letra*/
+    color: azure;
+    /*tipo de fonte*/
+    font-family: "Strait", sans-serif;
+
+}
+
+input{
+    /*arredondar*/
+    border-radius: 10px;
+    /*altura*/
+    height: 30px;
+    /*largura*/
+    width: 300px;
+    /*centralizar*/
+    text-align: center;
+    font-family: "Strait", sans-serif;
+}
+
+.botao{
+    background-color: rgb(164, 159, 167);
+    color: aliceblue;
+    border: none;
+    padding: 7px;
+    border-radius: 33px;
+}

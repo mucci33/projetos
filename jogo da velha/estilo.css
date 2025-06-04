@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+.quadrado{
+    width:200px; /*largura*/
+    height: 200px; /*altura*/
+    background-color:rgba(78, 11, 109, 0.863);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 127px;
+    color: aliceblue;
+    font-family: "Pirata One", system-ui;
+}
+/*personalizando a div*/
+.painel{
+    background-color: rgba(0, 0, 0, 0.515);  /*cor de fundo*/
+    width:1000px;  /*largura*/
+    height: 800px; /*altura*/
+    margin: auto;  /*centralizar*/
+    border-radius: 33px;/*arredondar a borda*/
+    text-align: center;
+}
+.jogo{
+    margin: auto;
+}
+h2{
+    color: aliceblue;
+    text-align:center;
+}
+body{
+    background-image:url(https://th.bing.com/th/id/OIP.UEl14YJAMFAepg_f0H_8KQHaHa?rs=1&pid=ImgDetMain);
+}
+.botao{
+    background-color: blueviolet;
+    color: bisque;
+    border: none;
+    font-size: 30px;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    font-family: "Pirata One", system-ui;
+}
+.texto{
+    font-size: 40px;
+    color: aliceblue;
+    text-shadow: :rgba(78, 11, 109, 0.863) ;
+
+}
